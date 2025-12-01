@@ -88,19 +88,6 @@ Si una rama se extingue, se pasa a la siguiente.
 
 El rey actual es siempre el miembro vivo más apto según estas reglas.
 
-Estructura de Carpetas
-
-KING/
-│
-├── bin/
-│   ├── programa.exe
-│   └── reino.csv
-│
-└── src/
-    ├── Main.cpp
-    ├── realeza.cpp
-    └── realeza.h
-
 Cómo Compilar el Proyecto
 
 Desde la carpeta raíz del proyecto (donde está src):
