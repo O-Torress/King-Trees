@@ -1,0 +1,11 @@
+id,name,last_name,gender,age,id_father,is_dead,was_king,is_king
+1,Arturo,Primero,H,68,0,0,1,1
+2,Bernardo,Primero,H,45,1,0,0,0
+3,Carlos,Primero,H,42,1,0,0,0
+4,Daniel,Primero,H,20,2,0,0,0
+5,Elena,Primero,M,18,2,0,0,0
+6,Fernando,Primero,H,16,3,0,0,0
+7,Gabriela,Primero,M,25,3,0,0,0
+8,Hector,Primero,H,50,1,1,0,0
+9,Isabel,Primero,M,30,8,0,0,0
+10,Julio,Primero,H,10,4,0,0,0
