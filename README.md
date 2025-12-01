@@ -65,10 +65,15 @@ Marcas de si fue rey o es rey actualmente
 Funcionalidades Implementadas
 
 ✔ Cargar la información de la familia real desde un archivo CSV
+
 ✔ Construir el árbol genealógico dinámicamente
+
 ✔ Imprimir el árbol en pantalla
+
 ✔ Generar la línea de sucesión actual según reglas internas
+
 ✔ Asignar automáticamente un nuevo rey al morir el anterior
+
 ✔ Menú interactivo para realizar todas las acciones desde consola
 
 Reglas de Sucesión (Simplificadas)
